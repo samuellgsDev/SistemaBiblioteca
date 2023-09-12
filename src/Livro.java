@@ -16,6 +16,6 @@ public class Livro {
     return  "Livro{" +
             "titulo='" + titulo + '\'' +
             ", autor='" + autor + '\'' +
-            ", editora" + editora +'}';
+            ", editora='" + editora +'}';
     }
 }
